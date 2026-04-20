@@ -1,6 +1,6 @@
-Tech Stack:
-HTML
-Vanilla JS
-TailwindCSS
-PDF export
-LocalStorage
+# Tech Stack:
+- HTML
+- Vanilla JS
+- TailwindCSS
+- PDF export
+- LocalStorage
