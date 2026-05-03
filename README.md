@@ -1,5 +1,4 @@
 # Tech Stack:
-- React
 - Typescript
 - TailwindCSS
 - Next.js
